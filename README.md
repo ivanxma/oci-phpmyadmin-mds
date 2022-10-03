@@ -6,5 +6,5 @@ The same modules are used as Resource Manager Stack.
 
 The latest stack can be downloaded directly in the releases (the zip file)
 
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/ivanxma/oci-phpmyadmin-mds/files/9694051/stack_phpmyadmin_mds.zip)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/ivanxma/oci-phpmyadmin-mds/files/9694077/stack_phpmyadmin_mds.zip)
 
