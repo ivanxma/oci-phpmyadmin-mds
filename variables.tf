@@ -52,7 +52,7 @@ variable "node_flex_shape_ocpus" {
 
 variable "node_flex_shape_memory" {
   description = "Flex Instance shape Memory (GB)"
-  default = 6
+  default = 8
 }
 
 variable "label_prefix" {
@@ -96,7 +96,7 @@ variable "phpMyAdmin_version" {
 
 variable "open_router" {
   description = "Open MySQL Classic and MySQL X Protocol on the router for the public IP (6446, 6447, 64460, 64470)"
-  default     = false
+  default     = true
 }
 
 variable "mysql_version" {
